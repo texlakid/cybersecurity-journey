@@ -45,3 +45,4 @@
 - [ ] Complete 50+ HTB / THM boxes
 - [ ] Contribute to an open-source security tool
 - [ ] Build a custom C2 or reconnaissance framework in Python
+- [ ] 
